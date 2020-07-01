@@ -1,5 +1,0 @@
-Using Jupyter Notebook:
-- Press Shift-Enter to run a cell
-- Use the toolbar to insert and add cells
-- You can open jupyter notebook from the command line/terminal by typing in "jupyter notebook" or by opening the anaconda navigator
-For a more in depth guide with pictures, go to these slides: https://docs.google.com/presentation/d/1uE0p0NuOUr2PnjUnlKqzWwOdi31Qd3WzS2qXZyThjCA/edit?usp=sharing
